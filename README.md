@@ -22,10 +22,13 @@ The website design is based on a Figma prototype, which provides a visual guidel
 
 The following technologies are used in this project:
 
-- **React**: A JavaScript library for building user interfaces.
-- **HTML**: The standard markup language for creating web pages.
-- **CSS**: A stylesheet language used for describing the presentation of a document written in HTML.
-- **JavaScript**: A programming language that allows you to implement complex features on web pages.
+| Technology | Description |
+|------------|-------------|
+| ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white) | A JavaScript library for building user interfaces. |
+| ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white) | The standard markup language for creating web pages. |
+| ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white) | A stylesheet language used for describing the presentation of a document written in HTML. |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) | A programming language that allows you to implement complex features on web pages. |
+
 
 ## Contributing
 
