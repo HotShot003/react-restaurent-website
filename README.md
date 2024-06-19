@@ -24,10 +24,10 @@ The following technologies are used in this project:
 
 | Technology | Description |
 |------------|-------------|
-| ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white) | A JavaScript library for building user interfaces. |
-| ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white) | The standard markup language for creating web pages. |
-| ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white) | A stylesheet language used for describing the presentation of a document written in HTML. |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) | A programming language that allows you to implement complex features on web pages. |
+| ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  | A JavaScript library for building user interfaces. |
+| ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) | The standard markup language for creating web pages. |
+| ![BulmaCSS](https://img.shields.io/badge/Bulma-%2300D1B2.svg?style=for-the-badge&logo=bulma&logoColor=white) | A modern CSS framework based on Flexbox. |
+| ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) | A programming language that allows you to implement complex features on web pages. |
 
 
 ## Contributing
