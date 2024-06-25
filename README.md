@@ -1,18 +1,22 @@
 # React Restaurant Website
 
 Welcome to the React Restaurant Website project! 
+
 This project is a part of my learning journey with React, where I will be building a restaurant website based on a Figma design. 
+
 The project will be updated daily until completion.
 
 ## Project Overview
 
 This repository contains the code for a restaurant website built using React. 
+
 The goal of this project is to create a fully functional and visually appealing website for a restaurant, showcasing various sections such as the menu, about us, contact information, and more.
 
 ## Live Updates
 
 I will be updating this repository regularly as I progress with the development of the website.
- Each update will include new features, improvements, and fixes based on the project requirements and design specifications.
+
+Each update will include new features, improvements, and fixes based on the project requirements and design specifications.
 
 ## Design
 
