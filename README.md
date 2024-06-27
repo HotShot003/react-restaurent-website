@@ -33,6 +33,11 @@ The following technologies are used in this project:
 | ![BulmaCSS](https://img.shields.io/badge/Bulma-%2300D1B2.svg?style=for-the-badge&logo=bulma&logoColor=white) | A modern CSS framework based on Flexbox. |
 | ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) | A programming language that allows you to implement complex features on web pages. |
 
+## Live Demo 
+
+Check Out The LiveDemo Of The Project 
+
+[![Live Demo](https://img.shields.io/badge/LiveDemo%20-%23276DC3.svg?&style=for-the-badge&logo=&logoColor=white)](https://react-restaurent-website.netlify.app/)
 
 ## Contributing
 
